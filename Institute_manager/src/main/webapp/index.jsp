@@ -7,6 +7,7 @@
 <title>institute manager</title>
 </head>
 <body>
-	<h1>hello</h1>
+	<h1>Welcome to my page</h1>
+	<a href="DemoServlet">click here</a>
 </body>
 </html>
